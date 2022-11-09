@@ -1,7 +1,6 @@
-﻿using LineComparisionProblem;
-using System;
+﻿using System;
 
-namespace LineComparisonProblem
+namespace LineComparision
 {
     class Program
     {

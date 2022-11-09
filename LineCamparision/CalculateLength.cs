@@ -1,5 +1,5 @@
 ﻿using System;
-namespace LineComparisionProblem
+namespace LineComparision
 {
     public class CalculateLength
     {
